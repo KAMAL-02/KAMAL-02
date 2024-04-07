@@ -6,7 +6,7 @@ Welcome to my coding journey! 👋 I'm Kamal nayan chaudhary but you can call me
 
 - 🌐 Full Stack Development Enthusiast
 - 💻 Proficient in C, C++, Python
-- 🌐 Web Technologies: HTML, CSS, Bootstrap
+- 🌐 Web Technologies: HTML, CSS, Bootstrap, Mongodb, Node, Express, React, SQL
 - 📚 Currently learning and exploring new technologies
 
 ## Repository Contents
@@ -14,16 +14,14 @@ Welcome to my coding journey! 👋 I'm Kamal nayan chaudhary but you can call me
 Here's a glimpse of what you'll find in this repository:
 
 - **Data Structures:** Implementations of various data structures in  C++.
-- **Full Stack Projects:** Check out my journey into the world of full-stack development using HTML, CSS, and Bootstrap.
+- **Full Stack Projects:** Check out my journey into the world of full-stack development
 
 ## Languages
 
 - C
 - C++
 - Python
-- HTML
-- CSS
-- Bootstrap
+- Javascript
 
 ## Connect with Me
 
