@@ -47,3 +47,7 @@ Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I 
 <p align="left">
   <a href="https://github.com/KAMAL-02?tab=repositories&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+## 🌟Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,bootstrap,python,cpp,c,java,nodejs,next,react,express,cloudflare,prisma,mysql,postgresql,mongodb,docker,git,github,)](https://skillicons.dev)
