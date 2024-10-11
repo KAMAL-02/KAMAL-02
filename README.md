@@ -49,5 +49,6 @@ Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I 
 </p>
 
 ## 🌟Skills
-</br>
+
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,bootstrap,python,cpp,c,java,nodejs,next,react,express,cloudflare,prisma,mysql,postgresql,mongodb,docker,git,github,)](https://skillicons.dev)
