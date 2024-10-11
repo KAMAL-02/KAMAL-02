@@ -1,19 +1,16 @@
-<img src="https://i.pinimg.com/564x/d1/59/52/d159520d4bc6fbdc87477ef1a86c6e76.jpg" width="100%" height="400px"/>
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Kamal__Dev"><img width="32px" alt="Twitter/X" title="Twitter/X" src="https://i.pinimg.com/564x/64/1c/ec/641cecefc3e502d1f3b89ac352b5694b.jpg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="discordapp.com/users/phantom_here"><img width="32px" alt="Discord" title="Discord" src="https://i.pinimg.com/564x/d8/6b/76/d86b76c1c7db91c1aa03338579f45e00.jpg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/kamal12"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.pinimg.com/564x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<br/>
-
 <p>
   
 Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I specialize in both frontend and backend development, with a strong focus on data structures. I love networking, joining new communities, and adding value ✨
+
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/Kamal__Dev"><img width="32px" alt="Twitter/X" title="Twitter/X" src="https://i.pinimg.com/564x/a3/92/59/a3925952fa117602db14aadf218594ac.jpg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="discordapp.com/users/phantom_here"><img width="32px" alt="Discord" title="Discord" src="https://i.pinimg.com/736x/ee/f4/c8/eef4c8ffb90b74df817b058b2c1e7749.jpg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/kamal12"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.pinimg.com/564x/2c/5c/51/2c5c51d0291b22c10650a5f200d2cfb3.jpg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <div>
 <details>
