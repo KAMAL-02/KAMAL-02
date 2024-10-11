@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/d1/59/52/d159520d4bc6fbdc87477ef1a86c6e76.jpg" width="100%" height="auto"/></a>
+<img src="https://i.pinimg.com/564x/d1/59/52/d159520d4bc6fbdc87477ef1a86c6e76.jpg" width="100%" height="70%"/></a>
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/Kamal__Dev"><img width="32px" alt="Twitter/X" title="Twitter/X" src="https://i.pinimg.com/564x/64/1c/ec/641cecefc3e502d1f3b89ac352b5694b.jpg"/></a>
