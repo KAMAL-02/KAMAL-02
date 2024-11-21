@@ -36,7 +36,6 @@ Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I 
 
   <a href="https://github.com/KAMAL-02"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KAMAL-02&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/KAMAL-02"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=KAMAL-02&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <a href="https://github.com/KAMAL-02"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAMAL-02&theme=radical&title_color=ff3068?&show_icons=true&locale=en&layout=compact"></a>
 
 ## 📘 My few projects
 
