@@ -42,8 +42,8 @@ Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I 
 <p align="left">
     <a href="https://github.com/KAMAL-02/Pages"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KAMAL-02&repo=Pages&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/KAMAL-02/Codehub"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KAMAL-02&repo=Codehub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/KAMAL-02/Ellipsis"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KAMAL-02&repo=Codehub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/KAMAL-02/LinkUp"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KAMAL-02&repo=Codehub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/KAMAL-02/Ellipsis"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KAMAL-02&repo=Ellipsis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/KAMAL-02/LinkUp"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KAMAL-02&repo=LinkUp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
