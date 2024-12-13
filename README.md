@@ -14,7 +14,7 @@ Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I 
 
 <div>
 <details>
-  <summary>🧑 More about me [![wakatime](https://wakatime.com/badge/user/65a06771-ec54-4090-83a9-8daf9c0b7655.svg)](https://wakatime.com/@65a06771-ec54-4090-83a9-8daf9c0b7655)</summary>
+  <summary>🧑 More about me </summary> [![wakatime](https://wakatime.com/badge/user/65a06771-ec54-4090-83a9-8daf9c0b7655.svg)](https://wakatime.com/@65a06771-ec54-4090-83a9-8daf9c0b7655)
 
 - 🔭 I’m currently on a journey to build **great** things
 
