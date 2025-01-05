@@ -1,6 +1,6 @@
 <p>
   
-Hey 👋, I am **Kamal**, an enthusiastic and ambitious full-stack developer. I specialize in both frontend and backend development, with a strong focus on data structures. I love networking, joining new communities, and adding value ✨
+Hey 👋, I am **Kamal**, a developer.✨
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
