@@ -4,11 +4,23 @@ Hey 👋, I am **Kamal**, a developer.✨
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Kamal__Dev"><img width="32px" alt="Twitter/X" title="Twitter/X" src="https://i.pinimg.com/564x/a3/92/59/a3925952fa117602db14aadf218594ac.jpg"/></a>
+  <a href="https://x.com/Kamal__Dev">
+    <img width="32px" alt="Twitter/X" title="Twitter/X" 
+         src="https://i.pinimg.com/564x/a3/92/59/a3925952fa117602db14aadf218594ac.jpg"
+         style="border-radius: 8px; border: 2px solid #ccc;"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/phantom_here"><img width="32px" alt="Discord" title="Discord" src="https://i.pinimg.com/736x/ee/f4/c8/eef4c8ffb90b74df817b058b2c1e7749.jpg"></a>
+  <a href="https://discordapp.com/users/phantom_here">
+    <img width="32px" alt="Discord" title="Discord" 
+         src="https://i.pinimg.com/736x/ee/f4/c8/eef4c8ffb90b74df817b058b2c1e7749.jpg"
+         style="border-radius: 8px; border: 2px solid #ccc;"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/kamal12"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.pinimg.com/564x/2c/5c/51/2c5c51d0291b22c10650a5f200d2cfb3.jpg"></a>
+  <a href="https://www.linkedin.com/in/kamal12">
+    <img width="32px" alt="Linkedin" title="Linkedin" 
+         src="https://i.pinimg.com/564x/2c/5c/51/2c5c51d0291b22c10650a5f200d2cfb3.jpg"
+         style="border-radius: 8px; border: 2px solid #ccc;"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
